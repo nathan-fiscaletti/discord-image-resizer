@@ -29,3 +29,15 @@ You can now run the script from anywhere you have a command line.
 # Copy an image to your clipboard first
 $ discord-resize
 ```
+
+## Example
+
+```sh
+C:\Users\Nathan\git-repos\discord-image-resizer>discord-resize
+Resizing image... (66355254 bytes)
+Resized Image!    (5972022 bytes) in 0.7866390705108643 seconds
+
+Clipboard Image Updated!
+
+C:\Users\Nathan\git-repos\discord-image-resizer>
+```
