@@ -1,4 +1,4 @@
-# Discore Image Resizer
+# Discord Image Resizer
 
 This utility makes it easy to resize images that are too large to send on Discord to a size that is appropriate for sending on Discord.
 
