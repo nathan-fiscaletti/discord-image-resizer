@@ -32,7 +32,7 @@ $ discord-resize
 
 ## Example
 
-```sh
+```
 C:\Users\Nathan\git-repos\discord-image-resizer>discord-resize
 Resizing image... (66355254 bytes)
 Resized Image!    (5972022 bytes) in 0.7866390705108643 seconds
