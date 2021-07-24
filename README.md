@@ -15,7 +15,7 @@ optional arguments:
   -o PATH, --out PATH   the output path for the processed image, defaults to the clipboard
 ```
 
-## Instalation
+## Installation
 
 ```sh
 $ git clone github.com/nathan-fiscaletti/discord-image-resizer.git
